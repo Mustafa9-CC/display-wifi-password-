@@ -1,2 +1,9 @@
-# display-wifi-password-
-Wi-Fi Password Viewer is a Python script that uses Windows netsh wlan via subprocess to list saved Wi-Fi profiles and display stored passwords in a clean format. ⚠️ Disclaimer: It does not hack networks; it only shows passwords already saved on your system (Admin rights may be required).
+## WIFI PASSWORD DISPLAYER
+# Description
+a simple python script that tells you the password of the wifi you're connected with
+
+# Requirements
+just need to install python in your system.
+
+# How to run
+run the file from your code editor or Ide or u can also run it from the command line
